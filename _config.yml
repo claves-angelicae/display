@@ -1,0 +1,13 @@
+name : Claves Angelicae 
+author : Gabriel Dunne, Cullen Miller
+author_url : https://github.com/claves-angelicae
+author_email : studio@gabrieldunne.com, cullen@pointlinesurface.com
+markdown : redcarpet
+highlighter : true
+# permalink       : /:title/
+# baseurl         : ""
+gems : [jekyll-paginate]
+exclude : [ s/, publish.sh, publish-nomedia.sh ]
+
+mediaurl : http://media.quilime.com/ca/s
+etherscan : https://etherscan.io

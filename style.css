@@ -1,0 +1,14 @@
+a {
+  border:none;
+  text-decoration:none;
+}
+img {
+  border:none;
+}
+svg {
+  float:left;
+}
+polyline {
+  stroke-width: 1.5px;
+  shape-rendering: auto;
+}
